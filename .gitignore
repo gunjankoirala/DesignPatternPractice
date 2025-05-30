@@ -22,3 +22,4 @@ obj/
 !BuilderDesignPattern/program.cs
 !DecoratorDesignPattern/Program.cs
 !FacadeDesignPattern/Program.cs
+!ObserverDesignPattern/Program.cs
