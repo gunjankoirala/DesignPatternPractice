@@ -20,3 +20,4 @@ obj/
 !ThreadsafeSingleton/Program.cs
 !SingletonDesignPattern/Program.cs
 !BuilderDesignPattern/program.cs
+!DecoratorDesignPattern/Program.cs
