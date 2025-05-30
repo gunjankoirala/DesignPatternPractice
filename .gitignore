@@ -19,3 +19,4 @@ obj/
 !FactoryMethod/Program.cs
 !ThreadsafeSingleton/Program.cs
 !SingletonDesignPattern/Program.cs
+!BuilderDesignPattern/program.cs
